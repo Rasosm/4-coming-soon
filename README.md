@@ -1,18 +1,19 @@
 # Coming soon
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-Astronautas
+
 Student project
 
-Site published at: rasosm.github.io/3-astronautas/
+This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Design: https://dribbble.com/shots/5964475/attachments/5964475-404-Lost-in-Space
+Site published at: rasosm.github.io/4-coming-soon/
 
-Project features
-md - Github markdown syntax
-single-page
-main title line (pseudo element)
-round buttons
-social icons as fonts
-copyright symbol
-Authors
+Design: https://cdn.discordapp.com/attachments/850245533838868480/850246473362178048/coming-soon-wide.png
+
+## Project features
+- Github pages
+- responsive design
+- forms
+- animations
+- icons
+
+## Authors
 Rasa: https://github.com/Rasosm
