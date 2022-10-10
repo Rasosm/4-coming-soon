@@ -1,0 +1,32 @@
+body {
+  display: inline-block;
+  margin: 0;
+}
+main {
+  float: left;
+  width: 100%;
+}
+.container {
+  float: left;
+  width: 100%;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.row-short {
+  float: left;
+  width: 600px;
+  margin-left: calc(50% - 300px);
+  background-color: pink;
+}
+.main-content {
+  display: flex;
+  justify-content: space-between;
+}
+.left-column {
+  width: 50%;
+  background-color: aqua;
+}
+.right-column {
+  width: 40%;
+  background-color: aqua;
+}
