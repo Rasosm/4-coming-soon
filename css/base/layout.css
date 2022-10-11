@@ -12,6 +12,12 @@ main {
   padding-top: 60px;
   padding-bottom: 60px;
 }
+.row {
+  float: left;
+  width: 1000px;
+  margin-left: calc(50% - 500px);
+  background-color: yellow;
+}
 .row-short {
   float: left;
   width: 600px;
