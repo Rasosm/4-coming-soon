@@ -2,6 +2,9 @@
   --primary-color: #03A9F5;
   --secondary-color: #E91D62;
 }
+html {
+  scroll-behavior: smooth;
+}
 body,
 body * {
   margin: 0;

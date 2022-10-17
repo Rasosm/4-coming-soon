@@ -53,6 +53,7 @@ footer.container {
   padding-top: 0;
   text-align: center;
   color: #fffb;
+  position: relative;
 }
 footer a {
 color: #fff;
@@ -97,4 +98,10 @@ justify-content: center;
   .main-title {
       font-size: 60px;
   }
+}
+.back-to-top {
+  background-color: var(--secondary-color);
+  top: -30px;
+  right: 0px;
+  position: absolute;
 }
