@@ -97,8 +97,14 @@
         <div class="right-column">
           <h2 class="section-title">Have any questions?</h2>
           <p class="section-description">You can use contact form below or contact us via e-mail at: <a href="mailto:trendytheme.net@gmail.com">trendytheme.net@gmail.com</a> Contact form is fully working and very easy to customize.</p>
-          <form>
-            MESSAGE FORM
+          <form class="form">
+            <label for="name">Name</label>
+            <input id="name" class="input" type="text" placeholder="Name" required autocomplete="name" value="">
+            <label for="email">Email</label>
+            <input id="email" class="input" type="email" placeholder="Email" required autocomplete="email" value="">
+            <label for="message">Message</label>
+            <textarea id="message" class="input" name="" id="" placeholder="Message" required autocomplete="off"></textarea>
+            <button class="btn" type="submit">Send message</button>
           </form>
         </div> 
       </div>

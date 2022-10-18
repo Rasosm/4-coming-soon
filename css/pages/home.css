@@ -105,3 +105,6 @@ justify-content: center;
   right: 0px;
   position: absolute;
 }
+footer > .icon > .back-to-top:hover {
+background-color: var(--secondary-dark);
+}
