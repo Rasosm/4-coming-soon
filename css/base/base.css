@@ -1,6 +1,11 @@
 :root {
   --primary-color: #03A9F5;
   --secondary-color: #E91D62;
+  --secondary-light: #f84e87;
+  --secondary-dark: #bd0b46;
+}
+html {
+  scroll-behavior: smooth;
 }
 body,
 body * {

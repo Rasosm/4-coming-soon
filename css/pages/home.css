@@ -17,6 +17,11 @@
   margin-bottom: 30px;
   object-fit: contain;
 }
+.hero .form > .input {
+  color: #fff;
+  border-color: #fff;
+  width: 100%;
+}
 .main-title {
   font-size: 80px;
 }
@@ -49,10 +54,17 @@
 .section-description > a:hover {
   text-decoration: underline;
 }
+main .form > input.input {
+  width : calc(50% - 10px);
+}
+main .form > input.input:last-of-type {
+  float: right;
+}
 footer.container {
   padding-top: 0;
   text-align: center;
   color: #fffb;
+  position: relative;
 }
 footer a {
 color: #fff;
@@ -97,4 +109,13 @@ justify-content: center;
   .main-title {
       font-size: 60px;
   }
+}
+.back-to-top {
+  background-color: var(--secondary-color);
+  top: -30px;
+  right: 0px;
+  position: absolute;
+}
+footer a .icon .back-to-top:hover {
+background-color: var(--secondary-dark);
 }
